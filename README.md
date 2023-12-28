@@ -8,4 +8,4 @@ Darshan is going to attend this session.
 
 Darshan made this change
 
-This is the example of merge conflict.
+This changes made by darshan
